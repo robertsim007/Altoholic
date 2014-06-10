@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="GarrikWolfe" APIVersion="8" Name="Altoholic" Description="In the future, used to help manaage alts at a glance">
+    <Script Name="Altoholic.lua"/>
+    <Form Name="Altoholic.xml"/>
+</Addon>
